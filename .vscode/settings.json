@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "functions.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "global.h": "c",
+        "manager.h": "c",
+        "helper.h": "c",
+        "builder.h": "c",
+        "stdio.h": "c",
+        "communicator.h": "c"
+    }
+}
